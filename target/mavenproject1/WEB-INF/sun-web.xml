@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sun-web-app error-url="">
+  <context-root>/mavenproject1</context-root>
+  <class-loader delegate="true"/>
+  <jsp-config>
+    <property name="keepgenerated" value="true">
+      <description>Keep a copy of the generated servlet class' java code.</description>
+    </property>
+  </jsp-config>
+</sun-web-app>

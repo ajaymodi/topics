@@ -1,0 +1,8 @@
+#surefire
+#Sun Dec 18 14:52:32 IST 2011
+user.dir=C\:\\Users\\WHO'S DIS\\Documents\\NetBeansProjects - Copy\\spring-jqgrid-mongo
+netbeans.execution=true
+localRepository=C\:\\Users\\WHO'S DIS\\.m2\\repository
+netbeans.deploy=true
+netbeans.deploy.clientUrlPart=/jsp/users.jsp
+basedir=C\:\\Users\\WHO'S DIS\\Documents\\NetBeansProjects - Copy\\spring-jqgrid-mongo
